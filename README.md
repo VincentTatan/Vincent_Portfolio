@@ -20,15 +20,14 @@ Please refer to my video [Demonstration : Drowsiness Detection System with Matla
 [![Demonstration : Drowsiness Detection System with Matlab](https://img.youtube.com/vi/ypd0iz4Z7E0/0.jpg)](https://www.youtube.com/watch?v=ypd0iz4Z7E0)
 
 # [Project 2 Web Scraping](https://github.com/VincentTatan/Web-Scraping)
-Web scraping is a very powerful tool to learn for any data professional. With web scraping the entire internet becomes your database. In this repository how to parse a web page into a data file (csv) using a Python package called BeautifulSoup Two ways to extract data from a website:
+Web scraping using BeautifulSoup
 
 ## Use the API of the website (Best way) The data on the websites are unstructured,
 Sadly, not all websites provide an API
 
-## Web Scraping: Web scraping is an automated method used to extract useful information from the websites focuses on the transformation of unstructured data (HTML format) on the web into structured data.
-**STEPS**: To extract data using web scraping with python,you need to follow these basic steps:
+## Steps 
 * Find the URL that you want to scrape
-* Check wheather is it legal to scrap from that website Goto www.URL/robots.txt if you are using Scrapy you no need to worry because it automatically allow only Legal links. in Settings.py ROBOTSTXT_OBEY=False
+* Check whether is it legal to scrap from that website Goto www.URL/robots.txt if you are using Scrapy you no need to worry because it automatically allow only Legal links. in Settings.py ROBOTSTXT_OBEY=False
 * Inspecting the Website
 * Find the data you want to extract
 * Write the code
