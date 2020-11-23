@@ -1,7 +1,7 @@
 # Vincent_Portfolio
 Data Science Portfolio by Vincent Tatan
 
-# Project 1 DrowsinessDetectionSystem
+# [Project 1 DrowsinessDetectionSystem](https://github.com/VincentTatan/DrowsinessDetectionSystem)
 Code to calculate the drowsiness level of students and professionals. Then it will play an alarm when it detects you are sleepy
 
 ## Introduction
