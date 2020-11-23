@@ -17,6 +17,8 @@ We came up with this idea, because we know that this is a common problem that st
 ## The Result
 Please refer to my video [Demonstration : Drowsiness Detection System with Matlab](https://www.youtube.com/watch?v=ypd0iz4Z7E0)
 
+[![Demonstration : Drowsiness Detection System with Matlab](https://img.youtube.com/vi/ypd0iz4Z7E0/0.jpg)](https://www.youtube.com/watch?v=ypd0iz4Z7E0)
+
 # [Project 2 Web Scraping](https://github.com/VincentTatan/Web-Scraping)
 Web scraping is a very powerful tool to learn for any data professional. With web scraping the entire internet becomes your database. In this repository how to parse a web page into a data file (csv) using a Python package called BeautifulSoup Two ways to extract data from a website:
 
